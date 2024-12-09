@@ -1,5 +1,8 @@
 # Zombie Shooter
 
+## Video Demo
+[Watch the video here](https://www.youtube.com/watch?v=MxaycdV0zpc)
+
 ## Overview
 "Zombie Shooter" is a top-down 2D shooter game developed as part of my CS50 final project. The game challenges players to survive waves of zombies using strategic movement and shooting mechanics.
 
